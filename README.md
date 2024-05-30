@@ -26,5 +26,5 @@ The Currency Converter application allows users to convert an amount from one cu
 ## Acknowledgments
 
 - [Jackson](https://github.com/FasterXML/jackson) for JSON processing.
-- [Currency API](https://github.com/fawazahmed0/currency-api) for providing exchange rate data.
+- [Exchange API](https://github.com/fawazahmed0/exchange-api) for providing exchange rate data.
 - [Gradle](https://gradle.org/) for dependency management and build automation.
